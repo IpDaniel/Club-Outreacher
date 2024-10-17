@@ -1,0 +1,7 @@
+# club_card_style_identifier = 'margin-left: 0px; padding: 15px 30px 11px 108px; position: relative; background-color: rgb(255, 255, 255); height: 100px; text-overflow: initial; overflow: visible;'
+# club_list_style_identifier = 'MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-9 MuiGrid-grid-lg-9'
+
+
+contact form name input element: <input aria-invalid="true" id="name" name="Name" required="" type="text" class="MuiInputBase-input MuiInput-input" value="">
+contact form email address input element: <input aria-invalid="true" id="email" name="Email" required="" type="text" class="MuiInputBase-input MuiInput-input" value="">
+contact form subject input element: 
